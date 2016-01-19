@@ -1,5 +1,7 @@
-//Dennis Sosa (109198226)
-//JavaFX GUI Implementation
+// Dennis Sosa 
+// CSE 114: Computer Sciece I
+// Stony Brook University
+// "Bridge" Card Game - JavaFX GUI Implementation
 
 package final_project_gui;
 
