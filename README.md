@@ -5,6 +5,7 @@
 - Courses: CSE 114 - Computer Science I (Completed) & CSE 214 - Computer Science II (Completed)
 
 - Folders: 
+
     • final_project_gui - CSE 114 Final Project - "Bridge" Card Game in Java (Simplified Version of "Bridge")(contains use of JavaFX)
 
 
